@@ -1,3 +1,4 @@
+import os
 ask_usr=int(input("Do you want to turn on your location?\n (1) Yes\tor\t (0) No : "))
 
 if ask_usr==1:
